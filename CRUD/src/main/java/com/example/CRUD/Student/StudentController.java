@@ -1,4 +1,4 @@
-package com.example.CRUD;
+package com.example.CRUD.Student;
 import java.util.ArrayList;
 import java.util.List;
 

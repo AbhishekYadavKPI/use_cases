@@ -1,4 +1,4 @@
-package com.example.CRUD;
+package com.example.CRUD.Student;
 
 import org.springframework.data.repository.CrudRepository;
 

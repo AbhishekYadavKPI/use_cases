@@ -1,4 +1,4 @@
-package com.example.CRUD;
+package com.example.CRUD.Student;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
