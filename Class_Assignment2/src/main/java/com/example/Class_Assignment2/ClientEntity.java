@@ -1,5 +1,4 @@
 package com.example.Class_Assignment2;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
